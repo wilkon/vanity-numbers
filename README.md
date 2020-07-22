@@ -1,6 +1,6 @@
 # Vanity Numbers
 ### Small app to generate possible vanity numbers
-### Scaffolding provided by Spring Initializer and Angular CLI
+### Scaffolding provided by [Spring Initializer](https://start.spring.io/) and [Angular CLI](https://cli.angular.io/)
 
 ## Specifications I used 
 * java 1.8+
