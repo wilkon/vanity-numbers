@@ -1,6 +1,6 @@
 # Vanity Numbers
 ### Small app to generate possible vanity numbers
-### Implemented projects using the scaffolding provided by Spring Initializer and Angular CLI
+### Scaffolding provided by Spring Initializer and Angular CLI
 
 ## Spring Boot App - CORS configured to take request from 4200 (angular default)
 ### Setup
