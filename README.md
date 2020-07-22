@@ -2,6 +2,19 @@
 ### Small app to generate possible vanity numbers
 ### Scaffolding provided by Spring Initializer and Angular CLI
 
+## Specifications I used 
+* java 1.8+
+* node 12.8.2
+* npm 6.14.2
+
+**Angular** stuffs
+* angular-devkit/architect    0.1000.3    
+* angular-devkit/core         10.0.3
+* angular-devkit/schematics   10.0.3
+* schematics/angular          10.0.3
+* schematics/update           0.1000.3
+* rxjs                         6.5.5
+
 ## Spring Boot App - CORS configured to take requests from port 4200 (Angular default)
 ### Setup
 Intellij - open build.gradle as new project
