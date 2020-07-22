@@ -15,12 +15,12 @@
 * schematics/update           0.1000.3
 * rxjs                         6.5.5
 
-## Spring Boot App 
-* CORS configured to take requests from port 4200 (Angular default)
 ### Project Setup
 * Spring Boot: Intellij - open build.gradle as new project
 * Angular: Any text editor is okay, but I used [Visual Code](https://code.visualstudio.com/).
 
+## Spring Boot App 
+* CORS configured to take requests from port 4200 (Angular default)
 ### **Ready to run the Spring Boot Wizardry?**
 Choose one of two methods to run
 ### Method 1 - 
