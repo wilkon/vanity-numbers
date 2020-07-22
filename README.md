@@ -20,7 +20,8 @@
 ### Project Setup
 Intellij - open build.gradle as new project
 
-### **Ready to run!**
+### **Ready to run the Spring Boot Wizardry?**
+Choose One of Two methods to run ^_^ (sometimes it's nice to have options)
 ### Method 1 - 
 run ```./gradlew build``` command 
 then ```java -jar snapshotcreated.jar ```
@@ -29,7 +30,7 @@ then ```java -jar snapshotcreated.jar ```
 ```./gradlew bootRun```
 
 ## Angular Web App
-### **Ready to run!**
+### **Ready for the Angular Gymnastics performance? **
 ```ng serve --open```
 
 Known Issues:
