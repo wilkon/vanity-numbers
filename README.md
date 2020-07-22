@@ -3,6 +3,9 @@
 ### Implemented projects using the scaffolding provided by Spring Initializer and Angular CLI
 
 ## SpringBoot App - CORS configured to take request from 4200 (angular default)
+### Setup
+Intellij - open build.gradle as new project
+
 ### Method 1 - 
 run ```./gradlew build``` command 
 then ```java -jar snapshotcreated.jar ```
