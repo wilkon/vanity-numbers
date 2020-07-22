@@ -1,0 +1,22 @@
+<h1><b>Vanity Numbers</b></h1>
+<input [(ngModel)]="phoneNumber" />
+<button (click)="onValid()">generate</button>
+<div *ngIf="invalidNumber">
+    <span style="color: red">Please submit a seven or ten digit phone number</span>
+  </div>
+<div *ngIf="!invalidNumber">
+    {{numbers.totalEntries}} total count of entries<br>
+    {{numbers.totalPages}} pages<br>
+    {{numbers.pageSize}} in current page <br>
+    <ul class=nav>
+        <li *ngFor="let n of getNavPageCount()" (click)="onSelect(n)" [class.selected]="n === selected">
+            {{n}}
+        </li>
+    </ul>
+    <b>Potential Vanifications</b>
+    <ul class=content>
+        <li *ngFor="let num of numbers.vanityList">
+            <a>{{num}}</a>
+        </li>
+    </ul>
+</div>
