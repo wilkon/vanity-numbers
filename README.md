@@ -18,3 +18,6 @@ then ```java -jar snapshotcreated.jar ```
 
 Known Issues:
 Although API can read * and # symbols, params not implemented from the HttpClient calls.
+
+**Note**:
+I had a lot of fun learning about Angular and Spring Boot - much more so than I expected. The tutorials and resources in general for both technologies are vast, so it will be complicated to find one that is still relevant or suiting. Starting at the documentation websites and including version numbers at hand during searches will be key if learning.
