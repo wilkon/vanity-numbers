@@ -31,7 +31,7 @@ then ```java -jar snapshotcreated.jar ```
 ```./gradlew bootRun```
 
 ## Angular Web App
-### **Ready for the Angular Gymnastics performance? **
+### **Ready for the Angular Gymnastics performance?**
 ```ng serve --open```
 
 Known Issues:
