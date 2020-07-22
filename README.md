@@ -16,7 +16,7 @@
 * rxjs                         6.5.5
 
 ### Project Setup
-* Spring Boot: Intellij - open build.gradle as new project
+* Spring Boot: Intellij - open `build.gradle` as new project
 * Angular: Any text editor is okay, but I used [Visual Code](https://code.visualstudio.com/).
 
 ## Spring Boot App 
