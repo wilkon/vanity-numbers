@@ -21,7 +21,7 @@
 Intellij - open build.gradle as new project
 
 ### **Ready to run the Spring Boot Wizardry?**
-Choose One of Two methods to run ^_^ (sometimes it's nice to have options)
+Choose one of two methods to run
 ### Method 1 - 
 run ```./gradlew build``` command 
 then ```java -jar snapshotcreated.jar ```
