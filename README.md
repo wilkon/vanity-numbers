@@ -24,16 +24,28 @@
 ### **Ready to run the Spring Boot Wizardry?**
 Choose one of two methods to run
 ### Method 1 - 
-from the project root directory - run `./gradlew build` command 
+from the project root directory - run 
 
-then `java -jar build/lib/snapshotcreated.jar ` <- your path might be different
+```./gradlew build```
+
+then 
+
+```java -jar build/lib/snapshotcreated.jar``` 
+
+your path to the jar may differ
 
 ### Method 2 - 
-from the project root directory - run `./gradlew bootRun`
+from the project root directory - run 
+
+```./gradlew bootRun```
 
 ## Angular Web App
 ### **Ready for the Angular Gymnastics performance?**
-from the project root directory - run`ng serve --open` A browser redirecting to Angular should also open for you with this command.
+from the project root directory - run
+
+```ng serve --open```
+
+A browser redirecting to Angular should also open for you with this.
 
 Known Issues:
 Although API can read * and # symbols, params not implemented from the HttpClient calls.
