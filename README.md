@@ -15,10 +15,12 @@
 * schematics/update           0.1000.3
 * rxjs                         6.5.5
 
-## Spring Boot App - CORS configured to take requests from port 4200 (Angular default)
-### Setup
+## Spring Boot App 
+* CORS configured to take requests from port 4200 (Angular default)
+### Project Setup
 Intellij - open build.gradle as new project
 
+### **Ready to run!**
 ### Method 1 - 
 run ```./gradlew build``` command 
 then ```java -jar snapshotcreated.jar ```
@@ -27,6 +29,7 @@ then ```java -jar snapshotcreated.jar ```
 ```./gradlew bootRun```
 
 ## Angular Web App
+### **Ready to run!**
 ```ng serve --open```
 
 Known Issues:
