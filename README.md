@@ -3,7 +3,7 @@
 ### Scaffolding provided by [Spring Initializer](https://start.spring.io/) and [Angular CLI](https://cli.angular.io/)
 
 ## Specifications I used 
-* java 1.8+
+* java 8
 * node 12.8.2
 * npm 6.14.2
 
