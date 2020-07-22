@@ -2,7 +2,7 @@
 ### Small app to generate possible vanity numbers
 ### Scaffolding provided by Spring Initializer and Angular CLI
 
-## Spring Boot App - CORS configured to take request from 4200 (Angular default)
+## Spring Boot App - CORS configured to take requests from port 4200 (Angular default)
 ### Setup
 Intellij - open build.gradle as new project
 
